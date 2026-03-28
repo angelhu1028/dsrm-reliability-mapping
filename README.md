@@ -47,22 +47,22 @@ All coordinates in millimetre units.
 
 | Scene | Type | AUROC | Scatter plot |
 |-------|------|-------|-------------|
-| 0 | Residential | 0.774 | ![](scatter_0.png) |
-| 1 | Residential | 0.822 | ![](scatter_1.png) |
-| 2 | Residential | 0.822 | ![](scatter_2.png) |
-| 3 | Residential | 0.797 | ![](scatter_3.png) |
-| 4 | Residential | 0.798 | ![](scatter_4.png) |
-| 5 | Residential | 0.785 | ![](scatter_5.png) |
-| 6 | Residential | 0.772 | ![](scatter_6.png) |
-| 75 | Residential | 0.806 | ![](scatter_75.png) |
-| pub1 | Public corridor | 0.912 | ![](scatter_pub1.png) |
-| pub2 | Public space | 0.810 | ![](scatter_pub2.png) |
-| pub3 | Public space | 0.871 | ![](scatter_pub3.png) |
-| pub4 | Office building | 0.722 | ![](scatter_pub4.png) |
-| pub5 | Industrial plant | 0.874 | ![](scatter_pub5.png) |
-| pub6 | Public space | 0.868 | ![](scatter_pub6.png) |
-| pub7 | Public space | 0.911 | ![](scatter_pub7.png) |
-| pub8 | Public space | 0.885 | ![](scatter_pub8.png) |
+| 0 | Residential | 0.774 |
+| 1 | Residential | 0.822 | 
+| 2 | Residential | 0.822 |
+| 3 | Residential | 0.797 |
+| 4 | Residential | 0.798 | 
+| 5 | Residential | 0.785 |
+| 6 | Residential | 0.772 |
+| 75 | Residential | 0.806 |
+| pub1 | Public corridor | 0.912 |
+| pub2 | Public space | 0.810 |
+| pub3 | Public space | 0.871 |
+| pub4 | Office building | 0.722 |
+| pub5 | Industrial plant | 0.874 |
+| pub6 | Public space | 0.868 |
+| pub7 | Public space | 0.911 |
+| pub8 | Public space | 0.885 |
 
 ## Note
 
